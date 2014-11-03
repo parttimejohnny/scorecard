@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.onetonghost.scorecard;
+package com.onetonghost.ballcard;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
